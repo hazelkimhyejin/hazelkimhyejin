@@ -1,16 +1,17 @@
 - 👋 Hi, I’m @hazelkimhyejin
 - 👀 I’m interested in SWE.
-- 🌱 I’m currently learning fullstack development.
+- 🌱 I’m currently doing fullstack development.
 - 🌱 Tech Skills in Progress
 Here are some of the technologies I'm working with:
 
  REACT
  MERN Stack
- MEAN Stack
  Python
 🚀 Looking for Opportunities
 I am particularly interested in the following roles:
 Product Manager
+Project Manager
+IT Manager
 Frontend Software Engineer
 Full Stack Developer
 - 💞️ I’m looking to collaborate on interesting and purposeful projects.

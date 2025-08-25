@@ -9,6 +9,8 @@ Here are some of the technologies I'm working with:
  Python
 🚀 Looking for Opportunities
 I am particularly interested in the following roles:
+AI Engineer
+AI Project Manager
 Product Manager
 Project Manager
 IT Manager

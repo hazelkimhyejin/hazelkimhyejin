@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hazelkimhyejin
-- 👀 I’m interested in SWE.
+- 👀 I’m interested in SWE/AI Engineering.
 - 🌱 I’m currently doing fullstack development.
 - 🌱 Tech Skills in Progress
 Here are some of the technologies I'm working with:
